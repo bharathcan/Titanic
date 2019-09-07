@@ -17,3 +17,12 @@ Exploring Data through Visualizations with Seaborn
 
 Data Analysis :
 Algorithm used:Logistic Regression
+Required Libraries:
+* [NumPy](http://www.numpy.org/)
+* [IPython](http://ipython.org/)
+* [Pandas](http://pandas.pydata.org/)
+* [SciKit-Learn](http://scikit-learn.org/stable/)
+* [SciPy](http://www.scipy.org/)
+* [StatsModels](http://statsmodels.sourceforge.net/)
+* [Patsy](http://patsy.readthedocs.org/en/latest/)
+* [Matplotlib](http://matplotlib.org/)
