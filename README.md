@@ -8,3 +8,9 @@ In this challenge, we ask you to complete the analysis of what sorts of people w
 
 Goal of the Project :
 Show a simple example of an analysis of the Titanic disaster in Python using a full complement of PyData utilities. This is aimed for those looking to get into the field or those who are already in the field and looking to see an example of an analysis done with Python.
+
+This Notebook will show te concepts:
+Importing Data Sets with Pandas
+Data Wragling
+Exploring Data through Visualizations with Matplotlib
+Exploring Data through Visualizations with Seaborn
