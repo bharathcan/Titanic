@@ -14,3 +14,6 @@ Importing Data Sets with Pandas
 Data Wragling
 Exploring Data through Visualizations with Matplotlib
 Exploring Data through Visualizations with Seaborn
+
+Data Analysis :
+Algorithm used:Logistic Regression
